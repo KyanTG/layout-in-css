@@ -4,8 +4,6 @@
 body {
   min-height: 100vh;
   font-family: sans-serif;
-  grid-template-columns: 25% 25% 25% 25%;
-  grid-template-rows:(10, 10%) ;
 }
 body > * {
   min-height: 1em;
